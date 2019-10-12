@@ -15,7 +15,7 @@ Unix socket is made up of two file, written in C, defined as follow:
     * print content character by character
     * read all file content and print buffer variable as string
 ## LINKS
-[Advanced Programming in the UNIX Environment]{https://zodml.org/sites/default/files/Advanced_Programming_in_the_UNIX_Environment%2C_3rd_Edition.pdf}
+[Advanced Programming in the UNIX Environment](https://zodml.org/sites/default/files/Advanced_Programming_in_the_UNIX_Environment%2C_3rd_Edition.pdf)
 [Understand inet](https://stackoverflow.com/questions/1593946/what-is-af-inet-and-why-do-i-need-it)
 ## TEST
 Use _Makefile_ to test code
